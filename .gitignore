@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Input images
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Generated analysis output
+*.yolo.json
+
+# YOLO / ML model weights
+*.pt
+
+# Ultralytics output folders
+runs/
+
+# Local/editor files
+.vscode/
+.idea/
