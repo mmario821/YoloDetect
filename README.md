@@ -34,7 +34,7 @@ pip install ultralytics
 
 ## Examples:
 
-This was processed on NVidia RTX 5070Ti withing a second or two by yolo11s.pt and yolo11m.pt models.
+This was processed on NVidia RTX 5070Ti within a second or two by yolo11s.pt (first picture) and yolo11m.pt models.
 
 ![YOLO detection example](examples/image0.jpg)
 
