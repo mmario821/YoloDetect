@@ -9,6 +9,10 @@ __pycache__/
 *.png
 *.webp
 
+# Keep README/example images
+!examples/
+!examples/*.jpg
+
 # Generated analysis output
 *.yolo.json
 
